@@ -39,7 +39,6 @@ class MyComponent extends React.Component {
 
   
 // answer
-
 class MyComponent extends React.Component {
     constructor(props) {
       super(props);
